@@ -1,4 +1,4 @@
-<h1 align="center">안녕하세요 👋 Rawonax입니다</h1>
+<h1 align="center">안녕하세요 👋 Ramona입니다</h1>
 
 <p align="center">
   🎂 <strong>2003년 8월 16일</strong>생 <br>
