@@ -1,4 +1,4 @@
-<h1 align="center">🌸 Hi there, I'm Rawonax 🌸</h1>
+<h1 align="center">🌸 Hi there, I'm Jena park🌸</h1>
 
 <p align="center">
   🎂 Born on <strong>August 16, 2003</strong> <br>
